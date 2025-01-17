@@ -1,2 +1,2 @@
 # Compozent-Project
-An a basic app created using react 
+A basic app created using react 
